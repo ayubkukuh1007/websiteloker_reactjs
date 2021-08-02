@@ -8,6 +8,9 @@ module.exports = {
         'custom-gold-dark': '#d3b161',
         'custom-gray-dark': '#293a4e',
         'custom-text-001': '#788596'
+      },
+      transitionProperty: {
+        height: 'height'
       }
     },
   },
